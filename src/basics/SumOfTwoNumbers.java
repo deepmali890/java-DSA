@@ -55,5 +55,6 @@ Sum of Two Numbers: 15
 
 4. System.out.println()
    - Prints the final output on the console.
+   - seeo out puts
 
 */
