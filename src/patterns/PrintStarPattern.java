@@ -50,6 +50,7 @@ public class PrintStarPattern {
 
             for (int star = 1; star <= line; star++) {
 
+
                 System.out.print("*");
 
             }
@@ -61,6 +62,7 @@ public class PrintStarPattern {
             // ========================================================
 
             System.out.println();
+
 
         }
 
